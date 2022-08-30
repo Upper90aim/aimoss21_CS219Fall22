@@ -3,7 +3,7 @@ public class HelloWorld {
 
     /*
     this is a multiline block comment.
-    This is similar to ! from python
+    This is similar to # from python
      */
 
     public static void main(String [] args) {
